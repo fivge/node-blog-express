@@ -1,0 +1,12 @@
+{
+  "name": "fivge",
+  "version": "0.0.1",
+  "description": "fivge's blog",
+  "main": "index.js",
+  "repository": "https://0x64.ml",
+  "author": "fivge",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
