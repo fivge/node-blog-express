@@ -1,3 +1,9 @@
+```
+git commit -m"`curl -s http://whatthecommit.com/index.txt`"
+```
+
+
+
 ```bash
 If you need to have openssl first in your PATH run:
   echo 'export PATH="/usr/local/opt/openssl/bin:$PATH"' >> ~/.zshrc
